@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahdyar
 - 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning react
 - 📫 How to reach me: ig: mahdyrll email: mahdiar871@gmail.com
 
 <!---
