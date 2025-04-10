@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mahdyar
 - 👀 I’m interested in front-end developing and AI
-- 📫 How to reach me: ig: mahdyrll | email: mahdiar871@gmail.com
+- 📫 How to reach me: mahdiar871@gmail.com
